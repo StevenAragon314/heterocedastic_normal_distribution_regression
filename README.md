@@ -1,5 +1,5 @@
 #### Heterocedastic Normal Distribution Regression
-<p>The purpose of this code is to show the problems of 'Heterocedastic in a Lineal Regression.</p>
+<p>The purpose of this code is to show the problems of 'Heterocedastic Lineal Regression.</p>
 
 <p>Our team will be creating a code where different people can see what is happening with heterocedastic in a Lineal Regression, </p>
 <p>where we will be creating a function where the values, in this case of 'n sample', will be changing of, and to compare the</p>
